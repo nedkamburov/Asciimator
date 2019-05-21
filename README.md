@@ -2,7 +2,7 @@
 Turn a video into frames and txt files from each frame.
 
 Dependecies:
-OpenCV
+OpenCV, numpy, PIL
 
 genAsciiFromMovie.py
 --------------------------
