@@ -5,9 +5,10 @@ Turn a video into frames and txt files from each frame.
 Dependecies:
 OpenCV, numpy, PIL
 
-![](sample-demo.gif)
+<!-- ![](sample-demo.gif) -->
 
-<!-- ![](asciimator-demo.gif) -->
+![](sample-demo.gif | width=200)
+![](asciimator-demo.gif | width=200)
 
 ## genAsciiFromMovie.py
 
